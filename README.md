@@ -5,7 +5,7 @@
 #### 🛠 Технологический стек
 * **Языки:** C++ (17/20), C#, IEC 61131-3 (ПЛК)
 * **Библиотеки и фреймворки:** STL, Boost (Asio, Beast, JSON, Log), Qt, Visual Studio, Visual Code
-* **Инструменты:** CMake, Git, Conan, Docker, Linux, GDB / Valgrind
+* **Инструменты:** CMake, Git, Conan, Docker, Linux
 * **Сетевые протоколы:** TCP/IP, HTTP/REST, WebSockets, Modbus (RTU/TCP), МЭК 61850 (GOOSE, SV, MMS), МЭК 60870-5-101/104
 
 #### 🚀 Избранные проекты

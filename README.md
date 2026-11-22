@@ -1,16 +1,18 @@
-## Hi there 👋
+### Привет! Я Семенов Василий — C++ разработчик 👋
 
-<!--
-**oldpunk92/oldpunk92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Инженер с 11-летним опытом в промышленной автоматизации и цифровых энергосистемах, специализирующийся на разработке на C++. Понимаю работу программно-аппаратных комплексов на уровне «железа» и сетевых протоколов, умею писать производительный многопоточный код под Linux.
 
-Here are some ideas to get you started:
+#### 🛠 Технологический стек
+* **Языки:** C++ (17/20), C#, IEC 61131-3 (ПЛК)
+* **Библиотеки и фреймворки:** STL, Boost (Asio, Beast, JSON, Log), Qt, Visual Studio, Visual Code
+* **Инструменты:** CMake, Git, Conan, Docker, Linux, GDB / Valgrind
+* **Сетевые протоколы:** TCP/IP, HTTP/REST, WebSockets, Modbus (RTU/TCP), МЭК 61850 (GOOSE, SV, MMS), МЭК 60870-5-101/104
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Избранные проекты
+* **[Dog-Story](https://github.com/oldpunk92/cpp_dog_story)** — асинхронный многопользовательский игровой backend-сервер на C++20 и Boost.Beast с упаковкой в Docker.
+* **[Transport Catalogue](https://github.com/oldpunk92/transport_catalogue)** — маршрутизатор общественного транспорта с поиском кратчайших путей на графах (Дейкстра), рендерингом карт в SVG.
+* **[Modbus Client](https://github.com/oldpunk92/cs_modbus_client)** — клиент для опроса промышленного оборудования по протоколу Modbus.
+* **[Sepam Time Sync](https://github.com/oldpunk92/cs_synch_sepam)** — ПО для синхронизации времени устройств релейной защиты (внедрено в промышленную эксплуатацию на ПАО «Омский каучук»).
+
+#### 📫 Контакты
+* **Telegram:** [@oldpunk92](https://t.me)
